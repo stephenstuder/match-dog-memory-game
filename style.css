@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+}
+html {
+    min-height: 100vh;
+}
+.page-title {
+    font-size: 4rem;
+    text-align: center;
+}
+.game-info-container {
+    font-size: 2rem;
+    grid-column: 1/-1;
+    display: flex;
+    justify-content: space-between;
+}
+.game-container {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 10px;
+    margin: 50px;
+    justify-content: center;
+}
+.card {
+    background-color: black;
+    height: 175px;
+    width: 125px;
+}
