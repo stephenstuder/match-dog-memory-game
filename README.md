@@ -5,7 +5,7 @@ memory matching game!
 Vanilla Javascript, Flexbox
 
 ## Url
-https://stephenstuder/match-dog-memory-game/
+https://stephenstuder.com/match-dog-memory-game/
 
 ## Screenshot
 <img src="./images/screenshotapp.PNG" alt="screenshot of webpage" width="500"/>
